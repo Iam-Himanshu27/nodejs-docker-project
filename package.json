@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-docker-project",
+  "version": "1.0.0",
+  "description": "Node.js application running inside Docker",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Himanshu",
+  "license": "ISC"
+}
